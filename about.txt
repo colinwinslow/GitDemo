@@ -22,3 +22,5 @@ The actual tools
   -Commits
   -Branches
   -Difference displays
+
+I'm editing on your branch can you see it? //EddieTardo
