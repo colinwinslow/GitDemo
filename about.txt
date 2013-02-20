@@ -6,12 +6,19 @@ This line was added by Colin using the github.com online editor.
 Presentation: Version Control
 
 •  Introduction
-o	What you can do with it
-o	Why it's important. 
-o	What tools are out there to help you do it?
-•	Github
-•	Cvs
-•	Clearcase
+  o	What you can do with it
+  o	Why it's important. 
+  o	What tools are out there to help you do it?
+    •	Github
+    •	Cvs
+    •	Clearcase
 
 •	It versus things like email and google docs.
-o	Why google docs is good
+  o	Why google docs is good (better for working on stuff like this presentation.
+      Real time vs Commits
+    Why Version Control is better
+
+The actual tools
+  -Commits
+  -Branches
+  -Difference displays
