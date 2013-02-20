@@ -5,8 +5,12 @@ This line was added by Colin using the github.com online editor.
 
 Presentation: Version Control
 
+Two Parts:
+
+Part 1 - Talking about Version Control
+
 •  Introduction
-  o	What you can do with it
+  o  What you can do with it
   o	Why it's important. 
   o	What tools are out there to help you do it?
     •	Github
@@ -17,11 +21,18 @@ Presentation: Version Control
   o	Why google docs is good (better for working on stuff like this presentation.
       Real time vs Commits
     Why Version Control is better
+        Difficulties with Version Control
 
 The actual tools
   -Commits
   -Branches
   -Difference displays
 
-I'm editing on your branch can you see it? //EddieTardo
-I'm editing on your branch can you see it? //Adam Stevens
+Why this is important in the worldview presented by the Pragmatic Programmer.
+
+/* I deleted both of your changes! - Josh */
+
+
+Part 2 - Demonstrating Version Control
+
+  Presented by Colin
