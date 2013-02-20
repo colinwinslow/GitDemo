@@ -24,3 +24,4 @@ The actual tools
   -Difference displays
 
 I'm editing on your branch can you see it? //EddieTardo
+I'm editing on your branch can you see it? //Adam Stevens
