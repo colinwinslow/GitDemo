@@ -20,4 +20,10 @@ I like making commits lalalalala make dat graph look cool!
 
 Just adding a random commit
 
+for(x = 0; x < whoaThere.length; x++)
+{
+  System.out.println("This is something we can do in Github"); 
+}
+
+
 
