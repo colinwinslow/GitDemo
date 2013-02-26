@@ -6,6 +6,6 @@ def heyJude(repeats):
         print "Na na na na na na na... (fade out)"
     else:
         print "Na na na na na na na, na na na na, hey Jude."
-        heyJude(repeats)
+        heyJude(repeats-1)
                 
 heyJude(15)
